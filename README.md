@@ -1,2 +1,3 @@
 # SSAM-Det
-in preparation
+The code of our method will be publicly available
+
